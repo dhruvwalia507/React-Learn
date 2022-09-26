@@ -1,2 +1,2 @@
 # React-Learn
-Introduction to React JS
+Introduction to bootstrap/ React JS
